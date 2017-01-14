@@ -1,6 +1,5 @@
 /*
-@author Maria-Bianca Cindroi
-@author Mika-Matti Savikko
+@author Group8
 */
 
 import java.util.LinkedList;

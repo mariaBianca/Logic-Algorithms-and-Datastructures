@@ -1,8 +1,13 @@
+/*
+@author Maria-Bianca Cindroi
+@author Mika-Matti Savikko
+*/
+
 import java.util.LinkedList;
 
 public class Gothenburg {
 
-		public static final TramNetwork GOTHENBURG;
+	public static final TramNetwork GOTHENBURG;
 	
 //If you want to run without the Main class, UNCOMMENT here!
 //        findGBG(0,"Centralstationen","Chalmers");
@@ -47,7 +52,7 @@ public class Gothenburg {
 		, Kungsportsplatsen
 		, Valand
 		, Vasaplatsen
-		, Gronsakstorget("Grönsakstorget")
+		, Gronsakstorget("GrÃ¶nsakstorget")
 		, Kapellplatsen
 		, Chalmers
 		, Domkyrkan
@@ -55,7 +60,7 @@ public class Gothenburg {
 		, Frihamnen
 		, HjalmarBrantingsplatsen("Hjalmar Brantingsplatsen")
 		, Berzeligatan
-		, Korsvagen("Korsvägen")
+		, Korsvagen("KorsvÃ¤gen")
 		, VasaViktoriagatan("Vasa Viktoriagatan")
 		;
 

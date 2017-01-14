@@ -2,9 +2,11 @@ package assignment2;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Stack;
-/**
- * @author Group8;
- * */
+
+/*@author Maria-Bianca Cindroi
+*@author Mika-Matti Savikko 
+*The implementation of a sorted list.
+* */
 public class SortedListImpl <E extends Comparable<E>> implements SortedList<E> {
 
 	private E[] arr = (E[]) new Comparable[5];

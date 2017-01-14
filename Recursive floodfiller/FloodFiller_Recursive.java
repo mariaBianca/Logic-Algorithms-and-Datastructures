@@ -1,4 +1,7 @@
 
+
+//@author Maria-Bianca Cindroi
+//@author Mika-Matti Savikko
 //Recursive
 import java.awt.*;
 import java.awt.image.*;
